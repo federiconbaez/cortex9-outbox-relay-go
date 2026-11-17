@@ -1,0 +1,7 @@
+/bin/
+/dist/
+*.exe
+*.test
+*.out
+.embedded-postgres-go/
+vendor/
